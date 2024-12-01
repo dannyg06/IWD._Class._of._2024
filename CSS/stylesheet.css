@@ -28,6 +28,18 @@
         font-size: 150%;
     }
 
+    .main_bkgd {
+        background-color: #0a0a08;
+        background-image: linear-gradient(red, yellow);
+        color: white;
+        min-height: calc(100vh - 402.06px);
+    background-image: url(../images/Concert\ background\ Template\ _\ PosterMyWall.png);
+    background-size: 1290px 2000px;
+    background-repeat: no-repeat;
+    background-position: center;
+        font-size: 150%;
+    }
+
     .row {
         display: flex;
       }
